@@ -30,4 +30,5 @@ public class Main2Activity extends AppCompatActivity {
         Log.i("坐标信息","scrollView.getScrollY()"+scrollView.getScrollY()+"frameLayout.getScrollY()"+frameLayout.getScrollY());
         return super.dispatchTouchEvent(ev);
     }
+    //1
 }
