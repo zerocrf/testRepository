@@ -1,0 +1,6 @@
+
+’squid:UselessImportCheck"bRemove this unused import 'com.google.android.material.floatingactionbutton.FloatingActionButton'.(ôˆêãÿÿÿÿÿ8ğ®×Òö-
+nsquid:UselessImportCheck	">Remove this unused import 'androidx.appcompat.widget.Toolbar'.(ÔËûİùÿÿÿÿ8ğ®×Òö-
+^squid:UselessImportCheck".Remove this unused import 'android.view.View'.(Ø½­äşÿÿÿÿ8ğ®×Òö-
+jsquid:MaximumInheritanceDepth"<This class has 6 parents which is greater than 5 authorized.(ä¡‹ûÿÿÿÿ
+usquid:UselessImportCheck"JRemove this unused import 'com.google.android.material.snackbar.Snackbar'.(ë„ƒŠ8ğ®×Òö-
